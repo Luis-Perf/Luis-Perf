@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! 👋 Eu sou o Luis Felipe
 
-<!--
-**Luis-Perf/Luis-Perf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor com foco em automação de testes, criação de interfaces web e projetos técnicos em engenharia civil. Atualmente curso Engenharia Civil e atuo com gestão de obras e desenvolvimento de projetos em AutoCAD.
 
-Here are some ideas to get you started:
+## ⚙️ Skills principais:
+- QA Automatizado (Selenium, Cypress)
+- HTML, CSS, JavaScript
+- Node.js / Python (scripts simples e APIs)
+- AutoCAD e modelagem técnica
+- Escrita técnica e documentação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos em destaque:
+- [qa-automation-sample](link) - Projeto de testes automatizados com Cypress
+- [landing-page-template](link) - Landing page responsiva e otimizada
+- [basic-webapp-nodejs](link) - Integração front + back-end com banco local
+
+---
+
+🚀 Em busca de boas parcerias e projetos onde eu possa aplicar conhecimento técnico com foco em resultado.
