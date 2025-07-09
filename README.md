@@ -10,7 +10,7 @@ Desenvolvedor com foco em automação de testes, criação de interfaces web e p
 - Escrita técnica e documentação
 
 ## 📂 Projetos em destaque:
-- [qa-automation-sample](link) - Projeto de testes automatizados com Cypress
+- [qa-automation-sample]([link](https://github.com/Luis-Perf/qa-automation-sample/tree/main/qa-automation-sample)) - Projeto de testes automatizados com Cypress
 - [landing-page-template](link) - Landing page responsiva e otimizada
 - [basic-webapp-nodejs](link) - Integração front + back-end com banco local
 
