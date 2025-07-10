@@ -5,7 +5,7 @@ Desenvolvedor com foco em automação de testes, criação de interfaces web e p
 ## ⚙️ Skills principais:
 - QA Automatizado (Selenium, Cypress)
 - HTML, CSS, JavaScript
-- Node.js / Python (scripts simples e APIs)
+- Node.js / Python (scripts e APIs)
 - AutoCAD e modelagem técnica
 - Escrita técnica e documentação
 
