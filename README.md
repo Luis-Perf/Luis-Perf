@@ -11,8 +11,8 @@ Desenvolvedor com foco em automação de testes, criação de interfaces web e p
 
 ## 📂 Projetos em destaque:
 - [qa-automation-sample](https://github.com/Luis-Perf/qa-automation-sample) - Projeto de testes automatizados utilizando Playwright
-- [landing-page-template](link) - Landing page responsiva e otimizada
-- [basic-webapp-nodejs](link) - Integração front + back-end com banco local
+- [landing-page-template](https://github.com/Luis-Perf/landing-page-template) - Landing page responsiva e otimizada
+- [basic-webapp-nodejs](https://github.com/Luis-Perf/ecommerce_front_back) - Integração front + back-end com banco local
 
 ---
 
