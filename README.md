@@ -1,7 +1,10 @@
 👋 **Olá! Eu me chamo Luis Felipe, sejam bem-vindos ao meu GitHub**
+
+
 Sou formado em **Ciências da Computação** e atualmente **pós-graduando em Inteligência Artificial**.
 Tenho experiência sólida em **automação de testes, desenvolvimento de APIs, análise de dados** e projetos relacionados à tecnologia aplicada em diferentes setores.
 Já atuei com projetos para seguradoras e atualmente sigo desenvolvendo soluções para gestão e automação em obras de engenharia.
+
 
 ⚙️ **Minhas principais habilidades**
 - *QA Automatizado* → Selenium, Cypress
