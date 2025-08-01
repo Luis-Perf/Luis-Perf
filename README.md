@@ -35,6 +35,10 @@ Já atuei com <strong>projetos para seguradoras</strong> e atualmente sigo desen
 </h3>
 <p>API para monitoramento de preços e exportação inteligente.</p>
 
+<h3>
+<a href="https://github.com/Luis-Perf/form-qa-JAVA">🔗 QA Automation JAVA CI/CD</a>  
+</h3>
+<p>Teste simples automatizado no formulário do site [DemoQA](https://demoqa.com/automation-practice-form), utilizando Maven, Selenium e Github Actions para CI/CD.</p>
 ---
 
 ## 🚀 **Em busca de projetos desafiadores!**
