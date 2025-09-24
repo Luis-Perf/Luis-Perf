@@ -3,6 +3,7 @@
 #  Muito prazer! Me chamo Luis Felipe
 
 **Backend & QA** — Python • FastAPI • SQLAlchemy • Java • Spring Boot • PostgreSQL • Vue • Selenium  
+
 Crio APIs robustas, automações de testes e soluções para **gestão/automação em obras**.
 
 </div>
@@ -15,7 +16,7 @@ Crio APIs robustas, automações de testes e soluções para **gestão/automaç�
 - **QA automatizado** (Selenium/Cypress) para fluxos críticos  
 - Integrações com serviços externos e exportação de dados
 
-### 🧰 Stack principal
+### Stack principal
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,java,maven,selenium,js,ts,vue,html,css." />
 </p>
