@@ -1,47 +1,53 @@
-# 👋 **Olá! Eu me chamo Luis Felipe, sejam bem-vindos ao meu GitHub**  
+<div align="center">
 
-<p style="font-size:18px;">
-Sou <strong>formado em Ciências da Computação</strong> e atualmente <strong>pós-graduando em Inteligência Artificial</strong>.<br>
-Tenho experiência sólida em <strong>automação de testes, desenvolvimento de APIs, análise de dados</strong> e projetos relacionados à tecnologia aplicada em diferentes setores.<br>
-Já atuei com <strong>projetos para seguradoras</strong> e atualmente sigo desenvolvendo soluções para <strong>gestão e automação em obras de engenharia</strong>.
+#  Muito prazer! Me chamo Luis Felipe
+
+**Backend & QA** — Python • FastAPI • SQLAlchemy • Java • Spring Boot • PostgreSQL • Vue • Selenium  
+Crio APIs robustas, automações de testes e soluções para **gestão/automação em obras**.
+
+</div>
+
+---
+
+### O que eu faço:
+- APIs REST com **FastAPI** + **JWT**, prontas para produção  
+- **SQLAlchemy** + **Alembic** (PostgreSQL) — dados seguros e versionados  
+- **QA automatizado** (Selenium/Cypress) para fluxos críticos  
+- Integrações com serviços externos e exportação de dados
+
+### 🧰 Stack principal
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,java,maven,selenium,js,ts,vue,html,css." />
 </p>
 
----
-
-## ⚙️ **Minhas principais habilidades**
-<ul style="font-size:16px;">
-<li><strong>QA Automatizado:</strong> Selenium, Cypress</li>
-<li><strong>Desenvolvimento Web:</strong> HTML, CSS, JavaScript</li>
-<li><strong>Frameworks e APIs:</strong> Node.js, React.js, integração com serviços externos</li>
-<li><strong>Análise de Dados:</strong> Estruturação, tratamento e exportação para relatórios</li>
-<li><strong>Modelagem Técnica:</strong> AutoCAD e suporte a projetos técnicos</li>
-</ul>
-
----
-
-## 📂 **Projetos em Destaque**
-<h3>
-<a href="https://github.com/Luis-Perf/consumo_API">🔗 conversor_API</a>  
-</h3>
-<p>Consumo de API de cotações em tempo real, com foco em moedas fiduciárias.</p>
-
-<h3>
-<a href="https://github.com/Luis-Perf/landing-page-template">🔗 landing-page-template</a>  
-</h3>
-<p>Landing page responsiva e otimizada para performance e SEO.</p>
-
-<h3>
-<a href="https://github.com/Luis-Perf/materiais_scrapping">🔗 materiais_scrapping</a>  
-</h3>
-<p>API para monitoramento de preços e exportação inteligente.</p>
-
-<h3>
-<a href="https://github.com/Luis-Perf/form-qa-JAVA">🔗 QA Automation JAVA CI/CD</a>  
-</h3>
-<p>Teste simples automatizado no formulário do site DemoQA, utilizando Maven, Selenium e Github Actions para CI/CD.</p>
----
-
-## 🚀 **Em busca de projetos desafiadores!**
-<p style="font-size:16px;">
-Sempre em busca de novas oportunidades e parcerias, aplicando <strong>tecnologia, automação e inteligência de dados</strong> para gerar soluções práticas e eficientes.
+### 🚀 Projetos em destaque
+<p>
+  <a href="https://github.com/Luis-Perf/consumo_API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-Perf&repo=consumo_API&title_color=FFD700&text_color=C9D1D9&icon_color=1DB954&bg_color=0D1117&hide_border=true" />
+  </a>
+  <a href="https://github.com/Luis-Perf/landing-page-template">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-Perf&repo=landing-page-template&title_color=FFD700&text_color=C9D1D9&icon_color=1DB954&bg_color=0D1117&hide_border=true" />
+  </a>
 </p>
+<p>
+  <a href="https://github.com/Luis-Perf/materiais_scrapping">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-Perf&repo=materiais_scrapping&title_color=FFD700&text_color=C9D1D9&icon_color=1DB954&bg_color=0D1117&hide_border=true" />
+  </a>
+  <a href="https://github.com/Luis-Perf/gestor_obras">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-Perf&repo=gestor_obras&title_color=FFD700&text_color=C9D1D9&icon_color=1DB954&bg_color=0D1117&hide_border=true" />
+  </a>
+</p>
+
+### 📊 Estatísticas
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Luis-Perf&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&title_color=FFD700&text_color=C9D1D9&icon_color=1DB954&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Perf&layout=compact&hide_border=true&title_color=FFD700&text_color=C9D1D9&bg_color=0D1117" />
+</p>
+
+### 🏗️ Em construção
+- **Gestor de Obras** — FastAPI + Postgres + SQLAlchemy + Alembic  
+- **Bots de QA** — suites para formulários e fluxos críticos
+
+### 💬 Contato
+- [LinkedIn](https://www.linkedin.com/in/luis-felipe-valle-branas-perfeito-871216198)
+- [E-mail](luisperfeito.1@hotmail.com)
