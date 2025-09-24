@@ -21,7 +21,7 @@ Crio APIs robustas, automações de testes e soluções para **gestão/automaç�
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,java,maven,selenium,js,ts,vue,html,css." />
 </p>
 
-### 🚀 Projetos em destaque
+### Projetos em destaque
 <p>
   <a href="https://github.com/Luis-Perf/consumo_API">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-Perf&repo=consumo_API&title_color=FFD700&text_color=C9D1D9&icon_color=1DB954&bg_color=0D1117&hide_border=true" />
