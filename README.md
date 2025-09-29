@@ -51,4 +51,3 @@ Crio APIs robustas, automações de testes e soluções para **gestão/automaç�
 
 ### 💬 Contato
 - [LinkedIn](https://www.linkedin.com/in/luis-felipe-valle-branas-perfeito-871216198)
-- [E-mail](luisperfeito.1@hotmail.com)
