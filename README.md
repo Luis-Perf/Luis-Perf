@@ -27,7 +27,7 @@ Crio APIs robustas, automações de testes e soluções para **gestão/automaç�
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-Perf&repo=consumo_API&title_color=FFD700&text_color=C9D1D9&icon_color=1DB954&bg_color=0D1117&hide_border=true" />
   </a>
   <a href="https://github.com/Luis-Perf/NLP_practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-Perf&repo=landing-page-template&title_color=FFD700&text_color=C9D1D9&icon_color=1DB954&bg_color=0D1117&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-Perf&repo=NLP_practice&title_color=FFD700&text_color=C9D1D9&icon_color=1DB954&bg_color=0D1117&hide_border=true" />
   </a>
 </p>
 <p>
