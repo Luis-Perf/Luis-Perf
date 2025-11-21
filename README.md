@@ -45,9 +45,5 @@ Crio APIs robustas, automações de testes e soluções para **gestão/automaç�
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Perf&layout=compact&hide_border=true&title_color=FFD700&text_color=C9D1D9&bg_color=0D1117" />
 </p>
 
-### 🏗️ Em construção
-- **Gestor de Obras** — FastAPI + Postgres + SQLAlchemy + Alembic  
-- **Bots de QA** — suites para formulários e fluxos críticos
-
 ### 💬 Contato
 - [LinkedIn](https://www.linkedin.com/in/luis-felipe-valle-branas-perfeito-871216198)
