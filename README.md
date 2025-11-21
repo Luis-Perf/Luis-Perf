@@ -40,10 +40,18 @@ Crio APIs robustas, automações de testes e soluções para **gestão/automaç�
 </p>
 
 ### 📊 Estatísticas
+
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Luis-Perf&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&title_color=FFD700&text_color=C9D1D9&icon_color=1DB954&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Perf&layout=compact&hide_border=true&title_color=FFD700&text_color=C9D1D9&bg_color=0D1117" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Luis-Perf&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&title_color=FFD700&text_color=C9D1D9&icon_color=1DB954&bg_color=0D1117&v=1"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Perf&layout=compact&hide_border=true&title_color=FFD700&text_color=C9D1D9&bg_color=0D1117&v=1"
+  />
 </p>
+
 
 ### 💬 Contato
 - [LinkedIn](https://www.linkedin.com/in/luis-felipe-valle-branas-perfeito-871216198)
