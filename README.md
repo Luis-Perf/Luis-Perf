@@ -43,12 +43,5 @@ Crio APIs robustas, automações de testes, designs responsivos e soluções pr�
   <img height="165" src="https://streak-stats.demolab.com?user=Luis-Perf&theme=github-dark&hide_border=true&cache_seconds=21600" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luis-Perf&theme=github-dark&hide_border=true&cache_seconds=21600" />
-</p>
-
-
-
-
 ### 💬 Contato
 - [LinkedIn](https://www.linkedin.com/in/luis-felipe-valle-branas-perfeito-871216198)
