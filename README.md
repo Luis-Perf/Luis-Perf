@@ -47,8 +47,6 @@ Crio **APIs robustas**, **automação de testes**, **designs responsivos** e **s
 ---
 
 
----
-
 ### 📊 Estatísticas
 
 <p align="center">
@@ -57,7 +55,7 @@ Crio **APIs robustas**, **automação de testes**, **designs responsivos** e **s
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Luis-Perf&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Luis-Perf&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
 ---
