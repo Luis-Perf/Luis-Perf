@@ -2,7 +2,7 @@
 
 # 👋 Muito prazer! Me chamo **Luis Felipe**
 
-**Fullstack** — 🐍 **Python** • ⚡ **FastAPI** • 🧩 **SQLAlchemy** • ☕ **Java** • 🌱 **Spring Boot** • 🐘 **PostgreSQL** • 🧠 **Vue** • 🧪 **Selenium** • ⚛️ **React**
+**Fullstack** — 🐍 **Python** • ⚡ **FastAPI** • 🧩 **SQLAlchemy** • ☕ **Java** • 🌱 **Spring Boot** • 🐘 **PostgreSQL** • 🧠 **Vue** • 🧪 **Selenium** • ⚛️ **React** • 🎯 **NodeJS**
 
 Crio **APIs robustas**, **automação de testes**, **designs responsivos** e **soluções práticas**.
 
