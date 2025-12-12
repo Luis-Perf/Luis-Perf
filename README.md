@@ -61,4 +61,4 @@ Crio **APIs robustas**, **automação de testes**, **designs responsivos** e **s
 ---
 
 ### 📬 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipe-valle-branas-perfeito-871216198/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipe-perfeito/)
