@@ -50,8 +50,10 @@ Crio **APIs robustas**, **automação de testes**, **designs responsivos** e **s
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luis-Perf&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&cache_seconds=21600" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luis-Perf&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+  <img height="165"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luis-Perf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=21600&v=1" />
+  <img height="165"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luis-Perf&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600&v=1" />
 </p>
 
 ---
