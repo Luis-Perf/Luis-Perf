@@ -32,7 +32,7 @@ Crio **APIs robustas**, **automação de testes**, **designs responsivos** e **s
 
 | NLP Practice | Gestor de Obras |
 |:-------------:|:---------------:|
-| [![NLP Practice](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Luis-Perf&repo=NLP_practice&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/Luis-Perf/NLP_practice) | [![Gestor de Obras](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Luis-Perf&repo=gestor_obras&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/Luis-Perf/gestor_obras) |
+| <a href="https://github.com/Luis-Perf/NLP_practice"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Luis-Perf&repo=NLP_practice&theme=tokyonight&hide_border=true&cache_seconds=86400" /></a> | <a href="https://github.com/Luis-Perf/gestor_obras"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Luis-Perf&repo=gestor_obras&theme=tokyonight&hide_border=true&cache_seconds=86400" /></a> |
 
 </div>
 
@@ -40,23 +40,24 @@ Crio **APIs robustas**, **automação de testes**, **designs responsivos** e **s
 
 | Consumo API | Landing Page |
 |:------------:|:-------------:|
-| [![Consumo API](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Luis-Perf&repo=consumo_API&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/Luis-Perf/consumo_API) | [![Landing Page](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Luis-Perf&repo=landing-page-template&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/Luis-Perf/landing-page-template) |
+| <a href="https://github.com/Luis-Perf/consumo_API"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Luis-Perf&repo=consumo_API&theme=tokyonight&hide_border=true&cache_seconds=86400" /></a> | <a href="https://github.com/Luis-Perf/landing-page-template"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Luis-Perf&repo=landing-page-template&theme=tokyonight&hide_border=true&cache_seconds=86400" /></a> |
 
 </div>
 
 ---
 
-
 ### 📊 Estatísticas
 
 <p align="center">
   <img height="165"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luis-Perf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=21600&v=1" />
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luis-Perf&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=8b5cf6&ring_color=8b5cf6&cache_seconds=21600&v=2" />
   <img height="165"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luis-Perf&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600&v=1" />
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luis-Perf&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=21600&v=2" />
 </p>
 
 ---
 
 ### 📬 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipe-perfeito/)
+<a href="https://www.linkedin.com/in/luis-felipe-perfeito/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
