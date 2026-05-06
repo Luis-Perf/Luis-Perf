@@ -59,35 +59,21 @@ Atualmente trabalho com desenvolvimento back-end em uma plataforma financeira wh
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
 <a href="https://github.com/Luis-Perf/NLP_practice">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-Perf&repo=NLP_practice&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-Perf&repo=NLP_practice&theme=tokyonight&hide_border=true" />
 </a>
-</td>
 
-<td width="50%">
 <a href="https://github.com/Luis-Perf/gestor_obras">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-Perf&repo=gestor_obras&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-Perf&repo=gestor_obras&theme=tokyonight&hide_border=true" />
 </a>
-</td>
-</tr>
 
-<tr>
-<td width="50%">
 <a href="https://github.com/Luis-Perf/consumo_API">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-Perf&repo=consumo_API&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-Perf&repo=consumo_API&theme=tokyonight&hide_border=true" />
 </a>
-</td>
 
-<td width="50%">
 <a href="https://github.com/Luis-Perf/landing-page-template">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-Perf&repo=landing-page-template&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-Perf&repo=landing-page-template&theme=tokyonight&hide_border=true" />
 </a>
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -97,9 +83,9 @@ Atualmente trabalho com desenvolvimento back-end em uma plataforma financeira wh
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Luis-Perf&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&icon_color=8B5CF6" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Luis-Perf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Perf&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Perf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
