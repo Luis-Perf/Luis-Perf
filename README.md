@@ -59,21 +59,31 @@ Atualmente trabalho com desenvolvimento back-end em uma plataforma financeira wh
 
 <div align="center">
 
-<a href="https://github.com/Luis-Perf/NLP_practice">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-Perf&repo=NLP_practice&theme=tokyonight&hide_border=true" />
-</a>
+### 🧠 NLP Practice
+Projeto focado em processamento de linguagem natural, análise textual e experimentos com IA utilizando Python.
 
-<a href="https://github.com/Luis-Perf/gestor_obras">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-Perf&repo=gestor_obras&theme=tokyonight&hide_border=true" />
-</a>
+🔗 https://github.com/Luis-Perf/NLP_practice
 
-<a href="https://github.com/Luis-Perf/consumo_API">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-Perf&repo=consumo_API&theme=tokyonight&hide_border=true" />
-</a>
+---
 
-<a href="https://github.com/Luis-Perf/landing-page-template">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-Perf&repo=landing-page-template&theme=tokyonight&hide_border=true" />
-</a>
+### 🏗️ Gestor de Obras
+Sistema voltado para gerenciamento operacional de obras, dashboards e organização de processos internos.
+
+🔗 https://github.com/Luis-Perf/gestor_obras
+
+---
+
+### 🔌 Consumo API
+Projeto de integração e consumo de APIs REST com foco em comunicação entre sistemas e manipulação de dados.
+
+🔗 https://github.com/Luis-Perf/consumo_API
+
+---
+
+### 🎨 Landing Page Template
+Landing page moderna e responsiva desenvolvida com foco em performance, UI e experiência do usuário.
+
+🔗 https://github.com/Luis-Perf/landing-page-template
 
 </div>
 
@@ -83,9 +93,11 @@ Atualmente trabalho com desenvolvimento back-end em uma plataforma financeira wh
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Luis-Perf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Perf&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Perf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<br/><br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Perf&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
 </div>
 
