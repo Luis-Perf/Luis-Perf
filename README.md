@@ -43,15 +43,15 @@ Também possuo experiência Full Stack, automação de testes, Python, IA e dese
 Atualmente trabalho com desenvolvimento back-end em uma plataforma financeira white-label, atuando em:
 
 
-✔ Middleware financeiro multi-adquirente 
-✔ Roteamento dinâmico por método de pagamento 
-✔ Integração com adquirentes e gateways 
-✔ Fluxos de split de pagamento 
-✔ Cálculo de taxas, antecipação, saque e reserva financeira 
-✔ Webhooks bidirecionais 
-✔ Integração antifraude 
-✔ Correção de bugs críticos em produção 
-✔ Documentação técnica 
+- ✔ Middleware financeiro multi-adquirente
+- ✔ Roteamento dinâmico por método de pagamento
+- ✔ Integração com adquirentes e gateways
+- ✔ Fluxos de split de pagamento
+- ✔ Cálculo de taxas, antecipação, saque e reserva financeira
+- ✔ Webhooks bidirecionais
+- ✔ Integração antifraude
+- ✔ Correção de bugs críticos em produção
+- ✔ Documentação técnica
 
 ---
 
@@ -137,10 +137,6 @@ Landing page moderna e responsiva desenvolvida com foco em performance, UI e exp
 
 <a href="https://www.linkedin.com/in/luis-felipe-perfeito/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:luisperfeito.1@hotmail.com">
-  <img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
