@@ -89,20 +89,6 @@ Landing page moderna e responsiva desenvolvida com foco em performance, UI e exp
 
 ---
 
-## 🔥 Atividade recente
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luis-Perf&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Luis-Perf&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🔥 Sequência de contribuições
 
 <div align="center">
