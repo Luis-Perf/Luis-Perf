@@ -145,6 +145,6 @@ Landing page moderna e responsiva desenvolvida com foco em performance, UI e exp
 
 <div align="center">
 
-### 🚀 Construindo software real, uma entrega por vez.
+### Construindo software real, uma entrega por vez.
 
 </div>
