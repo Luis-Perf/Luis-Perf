@@ -89,15 +89,15 @@ Landing page moderna e responsiva desenvolvida com foco em performance, UI e exp
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 🔥 Atividade recente
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Perf&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luis-Perf&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true" />
 
-<br/><br/>
+<br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Perf&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Luis-Perf&theme=tokyonight&hide_border=true" />
 
 </div>
 
