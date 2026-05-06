@@ -42,7 +42,7 @@ Também possuo experiência Full Stack, automação de testes, Python, IA e dese
 
 Atualmente trabalho com desenvolvimento back-end em uma plataforma financeira white-label, atuando em:
 
-```txt
+
 ✔ Middleware financeiro multi-adquirente
 ✔ Roteamento dinâmico por método de pagamento
 ✔ Integração com adquirentes e gateways
